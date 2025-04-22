@@ -1,4 +1,4 @@
-package com.vitdo82.demo.com.vitdo82.demo.kt
+package com.vitdo82.demo.kt
 
 class LRUCache<K, V>(private val size: Int) {
 

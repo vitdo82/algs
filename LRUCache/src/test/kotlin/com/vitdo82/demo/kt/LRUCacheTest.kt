@@ -1,4 +1,4 @@
-package com.vitdo82.demo.com.vitdo82.demo.kt
+package com.vitdo82.demo.kt
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test

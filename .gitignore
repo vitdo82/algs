@@ -1,0 +1,12 @@
+target/
+
+*.iws
+*.iml
+*.ipr
+.idea
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
